@@ -1,6 +1,7 @@
 # **PD-LeetCode**
 
 **Conteúdo da Disciplina**: Programação Dinâmica
+https://youtu.be/M3L8qVzai04
 
 ## Alunos
 
